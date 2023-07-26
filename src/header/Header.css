@@ -1,0 +1,31 @@
+.header{
+    background-color: #dadd79;
+    height: 50px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.main ul{
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    
+}
+.main ul li a{
+    text-decoration: none;
+}
+.icon{
+    margin-left: 100px;
+}
+
+.icon ul{
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+}
