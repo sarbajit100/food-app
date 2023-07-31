@@ -1,0 +1,38 @@
+.main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    height: 150px;
+    width: 300px;
+    display: flex;
+    background-color: aquamarine;
+    margin: 25px;
+    border-radius: 10px;
+}
+
+.container-left{
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+
+.container-left p{
+    margin-top: 10px;
+}
+
+.container-right{
+    height: 150px;
+    width: 150px;
+}
+
+.container-right img{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}

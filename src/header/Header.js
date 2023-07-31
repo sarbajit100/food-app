@@ -7,7 +7,7 @@ function Header() {
             <div className="logo">
                 <h1>Food Plaza</h1>
             </div>
-            <div className="main">
+            <div className="services">
                 <ul>
                     <li><a href="#">Home</a></li>
                     <li><a href="#">About</a></li>

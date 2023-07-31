@@ -7,7 +7,7 @@
     justify-content: space-around;
 
 }
-.main ul{
+.services ul{
     width: 500px;
     display: flex;
     align-items: center;
@@ -15,7 +15,7 @@
     list-style: none;
     
 }
-.main ul li a{
+.services ul li a{
     text-decoration: none;
 }
 .icon{
